@@ -6,7 +6,7 @@ Releases of the simulator **for your own machine** can be found on the Releases 
 
 ## Reporting bugs
 If you've found a bug in the simulator, please report it by opening an Issue against this repository:
-1. Go to the (https://github.com/MrBran4/SET-Challenge-2019/issues)[Issues] tab above
+1. Go to the [Issues](https://github.com/MrBran4/SET-Challenge-2019/issues) tab above
 2. Click the *New Issue* button at the top right
 3. Choose *Bug Report*
 4. Fill out the template and submit it.
@@ -15,7 +15,7 @@ Make sure it's tagged as *bug* (should be done by default if you use the templat
 
 ## Suggesting features
 If there's a new feature you'd like to suggest for the simulator, please suggest it by opening an Issue against the repository, and tagging that issue as an enhancement.
-1. Go to the (https://github.com/MrBran4/SET-Challenge-2019/issues)[Issues] tab above
+1. Go to the [Issues](https://github.com/MrBran4/SET-Challenge-2019/issues) tab above
 2. Click the green *New Issue* button at the top right
 3. Choose *Feature Suggestion*
 4. Fill out the template and submit it.
@@ -23,9 +23,9 @@ Make sure it's tagged as *enhancement* (should be done by default, if you use th
 
 ## Questions
 If you need something clarifying, ask a question by raising an Issue against this repository.
-First, *check it hasn't already been answered* (https://github.com/MrBran4/SET-Challenge-Drone-Swarm/issues?q=label%3Aquestion)[here].
+First, *check it hasn't already been answered* [here](https://github.com/MrBran4/SET-Challenge-Drone-Swarm/issues?q=label%3Aquestion).
 If it hasn't already been answered:
-1. Go to the (https://github.com/MrBran4/SET-Challenge-2019/issues)[Issues] tab above
+1. Go to the [Issues](https://github.com/MrBran4/SET-Challenge-2019/issues) tab above
 2. Click the *New Issue* button at the top right
 3. Choose *Question*
 Make sure the issue is tagged as *question* (should be done by default, if you use the template).
