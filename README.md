@@ -1,3 +1,5 @@
+![Drone Swarm Banner](https://github.com/mrbran4/SET-Challenge-2019/raw/master/thumbnail_bannerCSN2019.png "Drone Swarm Banner")
+
 # SET Challenge 2019
 This repository is for releases and issue tracking for the 2019 Software Challenge, in which teams control a set of five laser-equipped drones to protect a high value asset.
 
