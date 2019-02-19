@@ -3,6 +3,8 @@
 # SET Challenge 2019
 This repository is for releases and issue tracking for the 2019 Software Challenge, in which teams control a set of five laser-equipped drones to protect a high value asset.
 
+For full documentation on the challenge, including the rules and the API documentation, check out [the Wiki](https://github.com/MrBran4/SET-Challenge-2019/wiki)
+
 ## Downloading the simulator
 Releases of the simulator **for your own machine** can be found on the Releases tab above. Updates will usually be available here before the work network due to certification requirements. Please **do not** put these releases on a work machine.
 
